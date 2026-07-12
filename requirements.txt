@@ -1,0 +1,8 @@
+geopandas
+shapely
+mapclassify
+pandas
+matplotlib
+scipy
+pillow
+jupyter
