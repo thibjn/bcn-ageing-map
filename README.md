@@ -31,7 +31,7 @@ given shade always represents the same value throughout the notebook.
 | File | Content | Source |
 |---|---|---|
 | `data/BarcelonaCiutat_SeccionsCensals.json` | Census-section polygon boundaries for Barcelona city (WGS84 and ETRS89) | Ajuntament de Barcelona, Open Data BCN |
-| `data/30904.json` | Demographic indicators (average age, population, % aged 65+) for all municipalities and census sections in Barcelona province | *(fill in the exact portal and dataset ID you downloaded this from, e.g. Idescat or Diputació de Barcelona's statistics portal)* |
+| `data/30904.json` | Demographic indicators (average age, population, % aged 65+) for all municipalities and census sections in Barcelona province |  Instituto Nacional de Estadística (INE) |
 
 Both files are joined on a constructed 10-digit section code: municipality
 code (`08019` for Barcelona) plus a 2-digit district code plus a 3-digit
